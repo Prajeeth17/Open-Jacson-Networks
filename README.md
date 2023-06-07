@@ -10,9 +10,13 @@ Visual components and Python
 
 ![image](https://user-images.githubusercontent.com/103921593/203239736-7b81f599-71a8-4ae7-b63e-5d98acd9ea54.png)
 
-## Procedure :
+## Procedure:
 
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
+
+## Experiment:
+
+![exp06](https://github.com/Prajeeth17/Open-Jacson-Networks/assets/120513885/a32b2882-70ae-49d3-9d8f-483942b639c1)
 
 ## Program:
 ```py
